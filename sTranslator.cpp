@@ -3,7 +3,7 @@
 #include <vector>
 using namespace std;
 int main() {
-    cout << "Made by bloodlust#0211 as a form of self-harm." << "\n";
+    cout << "Made by bloodlust#0000 as a form of self-harm." << "\n";
     fstream fileO;
     fileO.open("text.txt", ios::in);
     int count = 0;
