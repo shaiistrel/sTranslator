@@ -34,6 +34,7 @@ int main() {
             }
             else if (v1[count2] == "d") {
                 v1[count2] = "ksjo;ls,";
+                count2++;
             }
             else if (v1[count2] == "e") {
                 v1[count2] = "sjkio;p,";
